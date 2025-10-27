@@ -1,0 +1,2 @@
+{"task_id":"aes_kat","prompt":"Implement AES-128 ECB encrypt_one in Cryptol.","harness":"crypto-c/verification/saw/aes128_ecb_kat.saw","k":5}
+{"task_id":"sha256_empty","prompt":"Implement SHA-256 empty message hash in Cryptol.","harness":"crypto-c/verification/saw/sha256_empty_kat.saw","k":5}

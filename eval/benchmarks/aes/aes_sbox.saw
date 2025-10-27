@@ -1,0 +1,6 @@
+# Placeholder SAW harness. 
+print "Running placeholder AES S-box SAW harness..."
+# cryptol_load "path/to/your/spec.cry";
+# #! (load some LLVM bc or function)
+# #! prove some property or equivalence
+# print "Done."
