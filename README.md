@@ -1,5 +1,5 @@
 # Evaluation
-evaluate model
+This repo will hold different models that we are evaluating, and their results.
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
